@@ -1,0 +1,130 @@
+lga_code,lga_name,erp_2025,lga_key,sites,plugs,region,plugs_per_10k
+10050,Albury,59538.0,albury,15.0,53.0,Rest of NSW,8.901877792334307
+10180,Armidale,29652.0,armidale,8.0,22.0,Rest of NSW,7.419398354242547
+10250,Ballina,48603.0,ballina,13.0,38.0,Rest of NSW,7.818447420941094
+10300,Balranald,2244.0,balranald,3.0,7.0,Rest of NSW,31.194295900178254
+10470,Bathurst,45359.0,bathurst,17.0,45.0,Rest of NSW,9.92085363433938
+10500,Bayside (NSW),187770.0,bayside,20.0,42.0,Greater Sydney,2.2367790381850137
+10550,Bega Valley,36921.0,bega valley,27.0,66.0,Rest of NSW,17.8760055253108
+10600,Bellingen,13348.0,bellingen,5.0,10.0,Rest of NSW,7.491759065028469
+10650,Berrigan,8773.0,berrigan,3.0,6.0,Rest of NSW,6.839165621794142
+10750,Blacktown,449385.0,blacktown,33.0,116.0,Greater Sydney,2.581305562045907
+10800,Bland,5455.0,bland,1.0,2.0,Rest of NSW,3.6663611365719526
+10850,Blayney,7831.0,blayney,2.0,2.0,Rest of NSW,2.5539522410930915
+10900,Blue Mountains,79236.0,blue mountains,29.0,74.0,Greater Sydney,9.339189257408249
+10950,Bogan,2373.0,bogan,1.0,4.0,Rest of NSW,16.856300042140752
+11150,Bourke,2310.0,bourke,2.0,6.0,Rest of NSW,25.974025974025974
+11200,Brewarrina,1396.0,brewarrina,2.0,5.0,Rest of NSW,35.816618911174785
+11250,Broken Hill,17515.0,broken hill,2.0,6.0,Rest of NSW,3.4256351698544103
+11300,Burwood,43927.0,burwood,11.0,21.0,Greater Sydney,4.780658820315524
+11350,Byron,38784.0,byron,24.0,61.0,Rest of NSW,15.728135313531352
+11400,Cabonne,13915.0,cabonne,17.0,35.0,Rest of NSW,25.152712899748476
+11450,Camden,146483.0,camden,12.0,62.0,Greater Sydney,4.232573063085819
+11500,Campbelltown (NSW),191285.0,campbelltown,7.0,34.0,Greater Sydney,1.7774524923543404
+11520,Canada Bay,93006.0,canada bay,7.0,22.0,Greater Sydney,2.3654387888953403
+11570,Canterbury-Bankstown,389687.0,canterbury bankstown,18.0,57.0,Greater Sydney,1.4627123819886216
+11600,Carrathool,2803.0,carrathool,3.0,8.0,Rest of NSW,28.540849090260433
+11650,Central Coast (NSW),357816.0,central coast,38.0,114.0,Greater Sydney,3.185995036555101
+11700,Central Darling,1773.0,central darling,1.0,4.0,Rest of NSW,22.560631697687537
+11720,Cessnock,71443.0,cessnock,42.0,97.0,Rest of NSW,13.577257394006411
+11730,Clarence Valley,56874.0,clarence valley,12.0,37.0,Rest of NSW,6.505608889826634
+11750,Cobar,4019.0,cobar,1.0,2.0,Rest of NSW,4.976362279173924
+11800,Coffs Harbour,82109.0,coffs harbour,13.0,55.0,Rest of NSW,6.698413085045488
+12000,Coolamon,4742.0,coolamon,3.0,6.0,Rest of NSW,12.652889076339097
+12150,Coonamble,3889.0,coonamble,1.0,4.0,Rest of NSW,10.285420416559527
+12160,Cootamundra-Gundagai,11429.0,cootamundra gundagai,10.0,44.0,Rest of NSW,38.498556304138596
+12350,Cowra,12721.0,cowra,3.0,6.0,Rest of NSW,4.716610329376621
+12380,Cumberland,256906.0,cumberland,6.0,18.0,Greater Sydney,0.7006453722373163
+12390,Dubbo,57384.0,dubbo,14.0,51.0,Rest of NSW,8.887494772061899
+12700,Dungog,10102.0,dungog,4.0,10.0,Rest of NSW,9.899029895070283
+12730,Edward River,8501.0,edward river,7.0,30.0,Rest of NSW,35.28996588636631
+12750,Eurobodalla,41309.0,eurobodalla,24.0,69.0,Rest of NSW,16.703381829625503
+12850,Fairfield,213677.0,fairfield,7.0,20.0,Greater Sydney,0.9359921751054161
+12870,Federation,13247.0,federation,9.0,30.0,Rest of NSW,22.6466369744093
+12900,Forbes,9301.0,forbes,2.0,4.0,Rest of NSW,4.300612837329319
+12930,Georges River,163919.0,georges river,15.0,36.0,Greater Sydney,2.196206663046993
+12950,Gilgandra,4304.0,gilgandra,1.0,4.0,Rest of NSW,9.293680297397769
+13010,Glen Innes Severn,9069.0,glen innes severn,4.0,8.0,Rest of NSW,8.821259234755761
+13310,Goulburn Mulwaree,33746.0,goulburn mulwaree,11.0,51.0,Rest of NSW,15.112902269898655
+13340,Greater Hume,11742.0,greater hume,6.0,21.0,Rest of NSW,17.884517118037813
+13450,Griffith,27458.0,griffith,8.0,19.0,Rest of NSW,6.919659115740403
+13550,Gunnedah,13502.0,gunnedah,5.0,13.0,Rest of NSW,9.628203229151236
+13660,Gwydir,4968.0,gwydir,5.0,8.0,Rest of NSW,16.10305958132045
+13800,Hawkesbury,69299.0,hawkesbury,7.0,17.0,Greater Sydney,2.4531378519170555
+13850,Hay,2899.0,hay,6.0,22.0,Rest of NSW,75.88823732321491
+13910,Hilltops,19347.0,hilltops,7.0,21.0,Rest of NSW,10.854396030392309
+14000,Hornsby,155484.0,hornsby,14.0,28.0,Greater Sydney,1.8008283810552856
+14100,Hunters Hill,13983.0,hunters hill,2.0,4.0,Greater Sydney,2.860616462847744
+14170,Inner West,193125.0,inner west,120.0,203.0,Greater Sydney,10.511326860841423
+14220,Inverell,18152.0,inverell,4.0,8.0,Rest of NSW,4.407227853680036
+14300,Junee,6403.0,junee,1.0,2.0,Rest of NSW,3.123535842573794
+14350,Kempsey,31950.0,kempsey,7.0,16.0,Rest of NSW,5.007824726134586
+14400,Kiama,23139.0,kiama,9.0,22.0,Rest of NSW,9.507757465750464
+14500,Ku-ring-gai,128542.0,ku ring gai,12.0,43.0,Greater Sydney,3.3452101258732556
+14550,Kyogle,9707.0,kyogle,8.0,16.0,Rest of NSW,16.482950448130214
+14600,Lachlan,6118.0,lachlan,5.0,10.0,Rest of NSW,16.345210853220006
+14650,Lake Macquarie,224540.0,lake macquarie,37.0,100.0,Rest of NSW,4.453549478934711
+14700,Lane Cove,43094.0,lane cove,20.0,40.0,Greater Sydney,9.28203462198914
+14750,Leeton,11475.0,leeton,0.0,0.0,Rest of NSW,0.0
+14850,Lismore,43642.0,lismore,5.0,13.0,Rest of NSW,2.9787819073369692
+14870,Lithgow,20693.0,lithgow,9.0,28.0,Rest of NSW,13.531145798095974
+14900,Liverpool,261231.0,liverpool,13.0,59.0,Greater Sydney,2.258537463011664
+14920,Liverpool Plains,7671.0,liverpool plains,5.0,10.0,Rest of NSW,13.036110024768607
+14950,Lockhart,3509.0,lockhart,5.0,9.0,Rest of NSW,25.64833285836421
+15050,Maitland,100439.0,maitland,19.0,56.0,Rest of NSW,5.575523452045521
+15240,Mid-Coast,99448.0,mid coast,24.0,83.0,Rest of NSW,8.346070308100716
+15270,Mid-Western,26472.0,mid western,23.0,45.0,Rest of NSW,16.99909338168631
+15300,Moree Plains,12845.0,moree plains,5.0,13.0,Rest of NSW,10.12066952121448
+15350,Mosman,29374.0,mosman,9.0,18.0,Greater Sydney,6.127868182746647
+15520,Murray River,14030.0,murray river,9.0,26.0,Rest of NSW,18.531717747683533
+15560,Murrumbidgee,3695.0,murrumbidgee,3.0,10.0,Rest of NSW,27.063599458728014
+15650,Muswellbrook,16859.0,muswellbrook,9.0,29.0,Rest of NSW,17.201494750578323
+15700,Nambucca Valley,21237.0,nambucca valley,7.0,21.0,Rest of NSW,9.8884023167114
+15750,Narrabri,12797.0,narrabri,3.0,10.0,Rest of NSW,7.814331483941549
+15800,Narrandera,5761.0,narrandera,4.0,12.0,Rest of NSW,20.829717063009895
+15850,Narromine,6420.0,narromine,0.0,0.0,Rest of NSW,0.0
+15900,Newcastle,178935.0,newcastle,45.0,130.0,Rest of NSW,7.265208036437812
+15950,North Sydney,73705.0,north sydney,25.0,107.0,Greater Sydney,14.51733260972797
+15990,Northern Beaches,272656.0,northern beaches,54.0,132.0,Greater Sydney,4.841265183968077
+16100,Oberon,5595.0,oberon,7.0,19.0,Rest of NSW,33.958891867739055
+16150,Orange,44990.0,orange,17.0,42.0,Rest of NSW,9.335407868415205
+16200,Parkes,14175.0,parkes,5.0,13.0,Rest of NSW,9.171075837742505
+16260,Parramatta,279014.0,parramatta,20.0,64.0,Greater Sydney,2.2937917093765905
+16350,Penrith,231701.0,penrith,14.0,67.0,Greater Sydney,2.891657783091139
+16380,Port Macquarie-Hastings,92432.0,port macquarie hastings,24.0,101.0,Rest of NSW,10.926951705037217
+16400,Port Stephens,80070.0,port stephens,22.0,80.0,Rest of NSW,9.991257649556637
+16490,Queanbeyan-Palerang,67633.0,queanbeyan palerang,12.0,53.0,Rest of NSW,7.836411219375157
+16550,Randwick,146484.0,randwick,89.0,165.0,Greater Sydney,11.26402883591382
+16610,Richmond Valley,24044.0,richmond valley,8.0,28.0,Rest of NSW,11.645316918981866
+16700,Ryde,141693.0,ryde,13.0,52.0,Greater Sydney,3.6699060645197714
+16900,Shellharbour,83228.0,shellharbour,11.0,38.0,Rest of NSW,4.565771134714279
+16950,Shoalhaven,111755.0,shoalhaven,50.0,122.0,Rest of NSW,10.91673750615185
+17000,Singleton,25841.0,singleton,20.0,42.0,Rest of NSW,16.25324097364653
+17040,Snowy Monaro,22396.0,snowy monaro,20.0,83.0,Rest of NSW,37.06018931952134
+17080,Snowy Valleys,15058.0,snowy valleys,15.0,40.0,Rest of NSW,26.563952716164167
+17100,Strathfield,49203.0,strathfield,11.0,25.0,Greater Sydney,5.080990996483955
+17150,Sutherland,241327.0,sutherland,11.0,33.0,Greater Sydney,1.367439200752506
+17200,Sydney,241797.0,sydney,79.0,249.0,Greater Sydney,10.297894514820284
+17310,Tamworth,66403.0,tamworth,13.0,39.0,Rest of NSW,5.873228619188891
+17350,Temora,6050.0,temora,2.0,6.0,Rest of NSW,9.917355371900827
+17400,Tenterfield,7188.0,tenterfield,5.0,12.0,Rest of NSW,16.69449081803005
+17420,The Hills,222675.0,hills,18.0,50.0,Greater Sydney,2.2454249466711573
+17550,Tweed,101044.0,tweed,16.0,47.0,Rest of NSW,4.651438977079292
+17620,Upper Hunter,14425.0,upper hunter,4.0,9.0,Rest of NSW,6.239168110918545
+17640,Upper Lachlan,9005.0,upper lachlan,1.0,2.0,Rest of NSW,2.2209883398112162
+17650,Uralla,6179.0,uralla,1.0,4.0,Rest of NSW,6.4735394076711446
+17750,Wagga Wagga,69108.0,wagga wagga,19.0,48.0,Rest of NSW,6.945650286508074
+17850,Walcha,2989.0,walcha,2.0,5.0,Rest of NSW,16.72800267648043
+17900,Walgett,5437.0,walgett,2.0,6.0,Rest of NSW,11.03549751701306
+17950,Warren,2606.0,warren,0.0,0.0,Rest of NSW,0.0
+18020,Warrumbungle,9246.0,warrumbungle,4.0,6.0,Rest of NSW,6.489292667099286
+18050,Waverley,73345.0,waverley,71.0,116.0,Greater Sydney,15.81566568954939
+18100,Weddin,3558.0,weddin,2.0,4.0,Rest of NSW,11.242270938729623
+18200,Wentworth,7982.0,wentworth,6.0,11.0,Rest of NSW,13.781007266349286
+18250,Willoughby,80520.0,willoughby,27.0,72.0,Greater Sydney,8.941877794336811
+18350,Wingecarribee,53840.0,wingecarribee,23.0,63.0,Rest of NSW,11.701337295690935
+18400,Wollondilly,62080.0,wollondilly,6.0,29.0,Greater Sydney,4.671391752577319
+18450,Wollongong,224327.0,wollongong,38.0,118.0,Rest of NSW,5.260178221970606
+18500,Woollahra,55218.0,woollahra,52.0,91.0,Greater Sydney,16.480133289869247
+18710,Yass Valley,17663.0,yass valley,8.0,28.0,Rest of NSW,15.852346713468833
+19399,Unincorporated NSW,975.0,unincorporated,0.0,0.0,Rest of NSW,0.0

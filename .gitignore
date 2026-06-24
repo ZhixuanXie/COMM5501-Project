@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large binary outputs already committed intentionally:
+# final_chart/ and outputs/ are kept because they are the deliverable artefacts.
+# Exclude any future large auto-generated files:
+*.tmp
+*.log
+
+# Course PDFs (too large / not needed in repo)
+*.pdf.orig
+CO_COMM5501*.pdf
+COMM5501*.pdf
